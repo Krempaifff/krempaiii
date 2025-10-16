@@ -842,8 +842,8 @@
             if (user) {
                 showUserInfo(user);
                 
-                // Показать админ панель для Krempai@gmail.com
-                if (user.email === 'Krempai@gmail.com') {
+                // Показать админ панель для Krempik@gmail.com
+                if (user.email === 'Krempik228') {
                     adminPanel.style.display = 'block';
                     updateAdminPanel();
                 }
