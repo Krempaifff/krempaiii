@@ -692,7 +692,7 @@
             <h2>Оформление заказа</h2>
             
             <div class="payment-info">
-                <div class="card-number" id="cardNumber">5375 4141 1234 5678</div>
+                <div class="card-number" id="cardNumber">4441 1110 3888 4767</div>
                 <button class="copy-btn" id="copyCardBtn">Скопировать</button>
                 <div class="payment-text">
                     Переведите <span id="paymentAmount">0</span> грн на указанную карту. После оплаты пришлите скриншот чека в техподдержку.
