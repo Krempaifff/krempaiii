@@ -942,8 +942,8 @@
             localStorage.setItem('currentUser', JSON.stringify(newUser));
             showUserInfo(newUser);
             
-            // Показать админ панель для Krempai@gmail.com
-            if (newUser.email === 'Krempai@gmail.com') {
+            // Показать админ панель для Krempik@gmail.com
+            if (newUser.email === 'Krempik@gmail.com') {
                 adminPanel.style.display = 'block';
                 updateAdminPanel();
             }
