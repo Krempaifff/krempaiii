@@ -552,7 +552,7 @@
         <div class="currency-grid">
             <div class="currency-item">
                 <div class="currency-amount">100кк</div>
-                <div class="currency-price">30 грн</div>
+                <div class="currency-price">50 грн</div>
                 <button class="buy-btn" data-product="100кк" data-price="50">Купить</button>
             </div>
             <div class="currency-item">
